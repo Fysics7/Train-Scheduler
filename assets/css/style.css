@@ -1,0 +1,32 @@
+body
+{
+    height: 100%;
+    background-image: url("../images/Space+train+_41fd8ca0578588e26c8c5092283d7058.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    	
+}
+
+.jumbotron {
+
+    background-color: blue;opacity:0.6;
+
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h4 {
+    color: whitesmoke;
+}
+
+.table {
+    color: white;
+}
+
+#all-display {
+    color: white;
+
+}
